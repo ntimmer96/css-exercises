@@ -1,0 +1,19 @@
+.imOdd {
+  background-color: #cb2a73;
+  font-family: "verdana", "DejaVu Sans", sans-serif;
+}
+
+#imUnique {
+  color: #11aad9;
+  font-size: 36px;
+}
+
+.imExtraOdd {
+  font-size: 24px;
+}
+
+#imExtraUnique {
+  background-color: #16ca10;
+  font-size: 24px;
+  font-weight: bold;
+}
